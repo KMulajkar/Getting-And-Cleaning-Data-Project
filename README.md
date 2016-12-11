@@ -10,4 +10,4 @@
 
 ####• run_analysis.R - gives the R code that is necessary for the processing of the input datasets; contains explanatory lines about the execution results from the code lines
 
-####• CodeBook.md - describes the new variables (names, values, units) that are created in the course of the processing transformations
+####• Codebook.md - describes the new variables (names, values, units) that are created in the course of the processing transformations
